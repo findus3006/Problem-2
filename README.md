@@ -1,7 +1,5 @@
-# Test
+# Problem 2: Transfer matrix
 
-Just a test
+## a: Phasefactor for individual sureface
 
-## Subheader
-
-Testing!
+done
